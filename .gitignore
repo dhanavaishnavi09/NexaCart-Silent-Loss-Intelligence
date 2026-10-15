@@ -1,0 +1,27 @@
+
+# Python environment and temporary files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Secrets
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+
+# Large Excel workbook - keep locally for now
+NexaCart.xlsx
+
+# Python project environment
+NexaCart.py/.venv/
+NexaCart.py/venv/
+NexaCart.py/.idea/
+NexaCart.py/**/__pycache__/
