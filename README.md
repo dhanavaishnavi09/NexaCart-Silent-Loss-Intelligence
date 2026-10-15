@@ -111,7 +111,7 @@ See `docs/` for a more detailed data dictionary and KPI definitions when those f
 
 ## How to Explore the Project
 
-1. Open `powerbi/NexaCart.pbix` in Power BI Desktop.
+1. Open `NexaCart.pbix` in Power BI Desktop.
 2. If the report requests a data source, configure the connection for your own environment. Do not publish database credentials.
 3. Review the Executive Control Room first, then explore the Silent Loss, Customers, Products, and Regions pages.
 4. Use the regional drill-through page where available to inspect a selected region.
